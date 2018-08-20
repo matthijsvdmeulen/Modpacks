@@ -1,1 +1,0 @@
-C:\Program Files\Java\jdk1.8.0_74\bin>pack200 --no-gzip "D:\Documenten\Minecraft\GJVPack\Launcher-master\launcher-fancy\build\libs\1.0.jar.pack" "D:\Documenten\Minecraft\GJVPack\Launcher-master\launcher-fancy\build\libs\launcher-fancy-1.0-all.jar"
