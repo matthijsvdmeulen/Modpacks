@@ -2,7 +2,22 @@
   "name" : "Vanilla+ 1.12.2",
   "title" : "Vanilla+ 1.12.2",
   "gameVersion" : "1.12.2",
-  "features" : [ ],
+  "features" : [
+    {
+      "properties" : {
+        "name" : "Fullscreen Windowed",
+        "description" : "Slechte ondersteuning voor linux, voor windows gewoon aan laten staan.",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/_CLIENT/FullscreenWindowed-1.12-1.6.0.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
   "userFiles" : {
     "include" : [
       "options.txt",
