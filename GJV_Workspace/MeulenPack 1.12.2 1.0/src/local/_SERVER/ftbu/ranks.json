@@ -1,0 +1,29 @@
+{
+  "default_ranks": {
+    "player": "player",
+    "op": "op"
+  },
+  "ranks": {
+    "player": {
+      "parent": "builtin_player",
+      "syntax": "<&5$name&r> ",
+      "permissions": [
+        "+command.dc",
+        "+command.forge",
+        "+ftbu.back.infinite"
+      ],
+      "config": {
+        "ftbu.homes.max": 100,
+        "ftbu.claims.max_chunks": 500
+      }
+    },
+    "op": {
+      "parent": "builtin_op",
+      "syntax": "<&2$name&r> ",
+      "permissions": [
+        "+ftbu.back.infinite"
+      ],
+      "config": {}
+    }
+  }
+}

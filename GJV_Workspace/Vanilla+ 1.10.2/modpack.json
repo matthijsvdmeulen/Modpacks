@@ -1,0 +1,62 @@
+{
+  "name" : "Vanilla+ 1.10.2",
+  "title" : "Vanilla+ 1.10.2",
+  "gameVersion" : "1.10.2",
+  "features" : [
+    {
+      "properties" : {
+        "name" : "JourneyMap",
+        "description" : "JourneyMap Minimap\nFeatures:\n+ Map caching\n+ Waypoints\n+ Entity radar\n+ Hoge resolutie\n-  Zwaar voor pc",
+        "recommendation" : "starred",
+        "selected" : true
+      },
+      "files" : {
+        "include" : [
+          "mods/journeymap-1.10.2-5.2.4-unlimited.jar"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "VoxelMap",
+        "description" : "VoxelMap Minimap\nFeatures:\n+ Map caching\n+ Waypoints\n+ Entity radar\n+ Licht voor pc\n-  Lagere resolutie",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/mod_voxelMap_1.6.15_for_1.10.2.litemod"
+        ],
+        "exclude" : [ ]
+      }
+    },
+    {
+      "properties" : {
+        "name" : "MapWriter",
+        "description" : "MapWriter Minimap\nFeatures:\n+ Map caching\n+ Waypoints\n+ Hoge resolutie\n-  Geen entity radar",
+        "recommendation" : null,
+        "selected" : false
+      },
+      "files" : {
+        "include" : [
+          "mods/MapWriter-1.10.2-2.6.19.jar"
+        ],
+        "exclude" : [ ]
+      }
+    }
+  ],
+  "userFiles" : {
+    "include" : [
+      "options.txt",
+      "optionsshaders.txt",
+      "journeymap"
+    ],
+    "exclude" : [ ]
+  },
+  "launch" : {
+    "flags" : [
+      "-Dfml.ignoreInvalidMinecraftCertificates=true"
+    ]
+  }
+}
