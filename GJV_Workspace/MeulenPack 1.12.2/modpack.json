@@ -6,13 +6,13 @@
     {
       "properties" : {
         "name" : "Fullscreen Windowed",
-        "description" : "Slechte ondersteuning voor linux, voor windows gewoon aan laten staan.",
+        "description" : "Deze mod zorgt ervoor dat je normaal kunt alt-tabben naar andere vensters vanuit Minecraft, maar geeft soms performanceproblemen. Zet uit als een trage PC hebt",
         "recommendation" : "starred",
         "selected" : true
       },
       "files" : {
         "include" : [
-          "mods/FullscreenWindowed-1.12-1.6.0.jar"
+          "mods/1.12.2/FullscreenWindowed-1.12-1.6.0.jar"
         ],
         "exclude" : [ ]
       }
