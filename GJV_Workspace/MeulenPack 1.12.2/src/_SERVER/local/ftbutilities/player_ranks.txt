@@ -1,0 +1,16 @@
+// This file stores player ranks.
+// 
+// Username: Rank
+// UUID: Rank
+// 
+// For more info visit https://guides.latmod.com/ftbutilities/ranks/
+
+Nansie93: gjvplus
+Lizzeyyx: delight
+Me_Pieter: gjv
+matthijsvdmeulen: admin
+thomasvdmeulen: gjv
+jochemvdmeulen: railworks
+rubenvdmeulen: gjvplus
+jvdbogaard12: gjv
+BartLind: delight
