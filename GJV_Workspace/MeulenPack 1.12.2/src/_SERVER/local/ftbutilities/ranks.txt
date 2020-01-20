@@ -13,21 +13,23 @@
 ftbutilities.chat.name_format: "<{name}> "
 command.forge: true
 ftbutilities.back.infinite: true
-ftbutilities.homes.max: 10
-ftbutilities.claims.max_chunks: 50
+ftbutilities.homes.max: 2
+ftbutilities.claims.max_chunks: 9
 
 [gjv extends player]
 ftbutilities.chat.name_format: "&6[GJV]&r <&c{name}&r> "
 ftbutilities.spawn.cooldown: 0
-ftbutilities.spawn.warmup: "2s"
+ftbutilities.spawn.warmup: "0"
 ftbutilities.back.cooldown: 0
-ftbutilities.back.warmup: "2s"
+ftbutilities.back.warmup: "0"
 ftbutilities.homes.cooldown: 0
-ftbutilities.homes.warmup: "2s"
+ftbutilities.homes.warmup: "0"
 ftbutilities.rtp.cooldown: 0
-ftbutilities.rtp.warmup: "2s"
+ftbutilities.rtp.warmup: "0"
 ftbutilities.tpa.cooldown: 0
-ftbutilities.tpa.warmup: "2s"
+ftbutilities.tpa.warmup: "0"
+ftbutilities.homes.max: 10
+ftbutilities.claims.max_chunks: 50
 
 [gjvplus extends gjv]
 ftbutilities.chat.name_format: "&6[GJV+]&r <&c{name}&r> "
