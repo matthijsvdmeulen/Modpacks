@@ -1,0 +1,1 @@
+http://www.dynmap.us/builds/DynmapBlockScan/DynmapBlockScan-3.0-beta-1-forge-1.12.2.jar
