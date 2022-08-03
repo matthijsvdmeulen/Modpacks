@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2615/930/MCMultiPart-2.5.3.jar
+https://mediafiles.forgecdn.net/files/2615/930/MCMultiPart-2.5.3.jar
+b32fb5efb99dedf207d3623e222ea67e20655fcc

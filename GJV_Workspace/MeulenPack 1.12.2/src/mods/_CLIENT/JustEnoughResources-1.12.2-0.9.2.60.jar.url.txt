@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2728/585/JustEnoughResources-1.12.2-0.9.2.60.jar
+https://mediafiles.forgecdn.net/files/2728/585/JustEnoughResources-1.12.2-0.9.2.60.jar
+3d4c9b8bb4ad948c7e26b7becd1c836f8cb34d07

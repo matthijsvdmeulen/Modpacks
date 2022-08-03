@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2563/292/NoMobSpawningOnTrees-1.2.2-mc1.12.2.jar
+https://mediafiles.forgecdn.net/files/2563/292/NoMobSpawningOnTrees-1.2.2-mc1.12.2.jar
+291a1d5fe825406502f52ce45795155a2dbdf7de

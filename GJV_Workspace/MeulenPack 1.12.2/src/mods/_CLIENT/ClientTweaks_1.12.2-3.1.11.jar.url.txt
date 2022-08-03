@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2624/712/ClientTweaks_1.12.2-3.1.11.jar
+https://mediafiles.forgecdn.net/files/2624/712/ClientTweaks_1.12.2-3.1.11.jar
+c6c31bc3e10fe8da49cb37088ec3d0e8d481ad46

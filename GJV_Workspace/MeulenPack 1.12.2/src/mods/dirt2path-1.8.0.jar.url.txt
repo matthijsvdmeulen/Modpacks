@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2606/175/dirt2path-1.8.0.jar
+https://mediafiles.forgecdn.net/files/2606/175/dirt2path-1.8.0.jar
+264e010ea79b4f16e3ae842eedb88c0b3ad87a72

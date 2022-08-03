@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2745/551/ProjectRed-1.12.2-4.9.4.120-world.jar
+https://mediafiles.forgecdn.net/files/2745/551/ProjectRed-1.12.2-4.9.4.120-world.jar
+7184d18c1511526f0e266ab92f4d05cd728c247f

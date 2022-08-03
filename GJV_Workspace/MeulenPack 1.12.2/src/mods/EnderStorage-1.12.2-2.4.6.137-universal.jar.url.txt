@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar
+https://mediafiles.forgecdn.net/files/2755/787/EnderStorage-1.12.2-2.4.6.137-universal.jar
+7a872baf72b1da038704056a0cf7bbcc40bfa4d6

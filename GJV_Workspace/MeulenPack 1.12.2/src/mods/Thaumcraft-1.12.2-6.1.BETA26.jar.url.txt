@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2629/23/Thaumcraft-1.12.2-6.1.BETA26.jar
+https://mediafiles.forgecdn.net/files/2629/23/Thaumcraft-1.12.2-6.1.BETA26.jar
+fe0899048f1796df04e9727bbf1898df30492a00

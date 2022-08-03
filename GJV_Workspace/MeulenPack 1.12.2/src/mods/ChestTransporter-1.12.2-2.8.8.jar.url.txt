@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2524/58/ChestTransporter-1.12.2-2.8.8.jar
+https://mediafiles.forgecdn.net/files/2524/58/ChestTransporter-1.12.2-2.8.8.jar
+50c48502302193af990ed3c33b6e23e1f240cb1d

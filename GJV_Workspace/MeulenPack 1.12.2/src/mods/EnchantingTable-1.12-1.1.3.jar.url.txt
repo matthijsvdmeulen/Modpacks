@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2553/810/EnchantingTable-1.12-1.1.3.jar
+https://mediafiles.forgecdn.net/files/2553/810/EnchantingTable-1.12-1.1.3.jar
+a2fdd06776ccb51092513571aa5e5bdd1b5a051c

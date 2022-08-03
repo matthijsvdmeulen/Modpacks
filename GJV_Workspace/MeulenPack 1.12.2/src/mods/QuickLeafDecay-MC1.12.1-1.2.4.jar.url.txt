@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2469/364/QuickLeafDecay-MC1.12.1-1.2.4.jar
+https://mediafiles.forgecdn.net/files/2469/364/QuickLeafDecay-MC1.12.1-1.2.4.jar
+0e4a3a3d477a12d2c1baee3447fde47bbe36a9e5

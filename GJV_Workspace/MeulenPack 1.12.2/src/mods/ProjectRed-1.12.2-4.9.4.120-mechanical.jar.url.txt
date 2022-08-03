@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2745/550/ProjectRed-1.12.2-4.9.4.120-mechanical.jar
+https://mediafiles.forgecdn.net/files/2745/550/ProjectRed-1.12.2-4.9.4.120-mechanical.jar
+2b8690aefe03ea47212001fadd2b6883b5284924

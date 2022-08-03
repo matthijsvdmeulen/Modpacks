@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2684/33/PortalGun-1.12.2-7.1.0.jar
+https://mediafiles.forgecdn.net/files/2684/33/PortalGun-1.12.2-7.1.0.jar
+2796a6f3723be6fddfdc547a59cc4420a34d823d

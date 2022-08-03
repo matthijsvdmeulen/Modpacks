@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar
+https://mediafiles.forgecdn.net/files/2819/669/FTBBackups-1.1.0.1.jar
+20ddf96ff380f1f3219305f2efc6742ab5999449

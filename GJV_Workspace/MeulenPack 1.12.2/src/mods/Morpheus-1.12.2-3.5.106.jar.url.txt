@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar
+https://mediafiles.forgecdn.net/files/2664/449/Morpheus-1.12.2-3.5.106.jar
+c948341a1b2243d4f8081c4db2cd727c2c4a7ed0

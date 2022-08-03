@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2562/139/CraftingTweaks_1.12.2-8.1.9.jar
+https://mediafiles.forgecdn.net/files/2562/139/CraftingTweaks_1.12.2-8.1.9.jar
+be42bf244d4864f6832890ef2a2ade59f44a3f8b

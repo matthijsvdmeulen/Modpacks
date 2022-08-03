@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2638/19/PassthroughSigns-1.12.2-2.1.5.jar
+https://mediafiles.forgecdn.net/files/2638/19/PassthroughSigns-1.12.2-2.1.5.jar
+0c20c02da93a82f58e150dd996677d8ee0f5cfe4

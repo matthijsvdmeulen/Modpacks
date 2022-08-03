@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2735/197/MrTJPCore-1.12.2-2.1.4.43-universal.jar
+https://mediafiles.forgecdn.net/files/2735/197/MrTJPCore-1.12.2-2.1.4.43-universal.jar
+981382e6c623e8fe68cee07c8ee1f6f2c77b94dd

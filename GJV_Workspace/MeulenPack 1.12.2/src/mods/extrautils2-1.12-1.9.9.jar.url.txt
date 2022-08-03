@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar
+https://mediafiles.forgecdn.net/files/2678/374/extrautils2-1.12-1.9.9.jar
+9f9a217b23626cb338cf229054ed490d913610dc

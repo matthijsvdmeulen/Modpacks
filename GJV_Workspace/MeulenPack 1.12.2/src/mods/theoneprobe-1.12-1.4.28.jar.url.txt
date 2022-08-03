@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar
+https://mediafiles.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar
+d5b5be5d5d54de5ed35c96131118c411a51129bc

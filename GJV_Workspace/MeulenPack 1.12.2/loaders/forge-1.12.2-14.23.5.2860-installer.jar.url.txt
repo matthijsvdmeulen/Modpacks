@@ -1,1 +1,2 @@
 https://maven.minecraftforge.net/net/minecraftforge/forge/1.12.2-14.23.5.2860/forge-1.12.2-14.23.5.2860-installer.jar
+c423ce528bd517e9fc6e7cc9346769ad84461f93

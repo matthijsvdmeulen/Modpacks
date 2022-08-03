@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2699/55/OpenModsLib-1.12.2-0.12.2.jar
+https://mediafiles.forgecdn.net/files/2699/55/OpenModsLib-1.12.2-0.12.2.jar
+210cc6b18b63ae0d3110b8e8ed843bc847627eb0

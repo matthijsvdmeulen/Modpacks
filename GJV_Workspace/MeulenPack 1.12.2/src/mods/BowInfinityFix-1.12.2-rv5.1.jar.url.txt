@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2707/590/BowInfinityFix-1.12.2-rv5.1.jar
+https://mediafiles.forgecdn.net/files/2707/590/BowInfinityFix-1.12.2-rv5.1.jar
+08cb5d88d771e6a1df430afdc50f5118cee24be2

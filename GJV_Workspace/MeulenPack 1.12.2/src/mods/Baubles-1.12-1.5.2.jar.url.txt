@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar
+https://mediafiles.forgecdn.net/files/2518/667/Baubles-1.12-1.5.2.jar
+cb13fcfb18a9cb0cbd825fd5fe8d813c77368549

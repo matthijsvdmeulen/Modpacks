@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar
+https://mediafiles.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar
+7280d5c0dab42436549bcefc63ff64a1049e5501

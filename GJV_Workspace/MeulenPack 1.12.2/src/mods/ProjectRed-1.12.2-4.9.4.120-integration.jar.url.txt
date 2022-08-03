@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2745/548/ProjectRed-1.12.2-4.9.4.120-integration.jar
+https://mediafiles.forgecdn.net/files/2745/548/ProjectRed-1.12.2-4.9.4.120-integration.jar
+f05cda479b14d41e02120295b4bcbb0ab25738d2

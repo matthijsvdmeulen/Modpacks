@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2682/824/Sync-1.12.2-7.1.0.jar
+https://mediafiles.forgecdn.net/files/2682/824/Sync-1.12.2-7.1.0.jar
+325ccca4a1f2b52161acfcd31224aab3e8e6cf5a

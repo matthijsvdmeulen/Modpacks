@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar
+https://mediafiles.forgecdn.net/files/2450/900/Chameleon-1.12-4.1.3.jar
+5ed3dd5fd1ebded57bfe525b4ece11232bd14e5e

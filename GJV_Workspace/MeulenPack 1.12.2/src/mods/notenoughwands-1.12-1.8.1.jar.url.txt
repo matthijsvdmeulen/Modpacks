@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2705/633/notenoughwands-1.12-1.8.1.jar
+https://mediafiles.forgecdn.net/files/2705/633/notenoughwands-1.12-1.8.1.jar
+28d80045136c501e34c49ae6f80cb3b3e5bf7212

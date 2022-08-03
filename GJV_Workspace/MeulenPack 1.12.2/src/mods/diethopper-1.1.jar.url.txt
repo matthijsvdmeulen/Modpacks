@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2482/543/diethopper-1.1.jar
+https://mediafiles.forgecdn.net/files/2482/543/diethopper-1.1.jar
+2aea3d9a64551cefe0a1b6f5c5edf57959796b66

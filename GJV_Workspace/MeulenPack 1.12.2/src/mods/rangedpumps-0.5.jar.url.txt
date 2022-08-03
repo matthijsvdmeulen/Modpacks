@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2441/326/rangedpumps-0.5.jar
+https://mediafiles.forgecdn.net/files/2441/326/rangedpumps-0.5.jar
+839d16b7fffaf5d3de561ca4356f08fb916b403a

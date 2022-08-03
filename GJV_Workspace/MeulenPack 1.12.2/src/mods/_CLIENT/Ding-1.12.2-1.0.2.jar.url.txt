@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2801/170/Ding-1.12.2-1.0.2.jar
+https://mediafiles.forgecdn.net/files/2801/170/Ding-1.12.2-1.0.2.jar
+1939ac649c1d6ed0cd9fca8afefc48795fbdb18f

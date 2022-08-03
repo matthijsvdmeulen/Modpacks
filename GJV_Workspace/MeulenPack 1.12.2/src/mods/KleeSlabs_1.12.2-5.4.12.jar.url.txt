@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2733/525/KleeSlabs_1.12.2-5.4.12.jar
+https://mediafiles.forgecdn.net/files/2733/525/KleeSlabs_1.12.2-5.4.12.jar
+ed95352b5c4a8dd72366cc25dc48e249cf5cbe2b

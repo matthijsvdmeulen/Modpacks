@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2612/52/NetherPortalFix_1.12.1-5.3.17.jar
+https://mediafiles.forgecdn.net/files/2612/52/NetherPortalFix_1.12.1-5.3.17.jar
+c89d0046a1473293338cb5bb1d3f765ae497bcd6

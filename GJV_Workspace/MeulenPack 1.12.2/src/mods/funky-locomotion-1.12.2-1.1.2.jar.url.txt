@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2599/318/funky-locomotion-1.12.2-1.1.2.jar
+https://mediafiles.forgecdn.net/files/2599/318/funky-locomotion-1.12.2-1.1.2.jar
+e3cd380517ed2d22902e541937dbf630e5ab0cf1

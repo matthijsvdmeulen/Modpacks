@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2719/415/ClassicCombat-1.0.1.jar
+https://mediafiles.forgecdn.net/files/2719/415/ClassicCombat-1.0.1.jar
+80084f4f99c652fa946acf448f56bda88f6fc0d9

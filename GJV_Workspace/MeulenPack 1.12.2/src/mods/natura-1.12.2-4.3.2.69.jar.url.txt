@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2711/439/natura-1.12.2-4.3.2.69.jar
+https://mediafiles.forgecdn.net/files/2711/439/natura-1.12.2-4.3.2.69.jar
+1485d9f3378eae092fb6ba690f1cb4484a1ce42c

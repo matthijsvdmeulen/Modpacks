@@ -1,1 +1,2 @@
-https://media.forgecdn.net/files/2481/601/BetterTitleScreen-1.12.2-1.4b.jar
+https://mediafiles.forgecdn.net/files/2481/601/BetterTitleScreen-1.12.2-1.4b.jar
+e4a5c3dbbafa4361c4e1d04b6fe6758498b4d33c
