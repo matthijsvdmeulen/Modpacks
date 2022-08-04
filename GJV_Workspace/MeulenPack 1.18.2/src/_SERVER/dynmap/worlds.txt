@@ -1,0 +1,141 @@
+%YAML 1.1
+---
+worlds:
+-   name: world
+    title: world
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+-   name: DIM1
+    title: DIM1
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: brightnight
+        mapzoomin: 1
+    -   class: org.dynmap.hdmap.HDMap
+        name: the_end
+        title: Surface
+        prefix: st
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: brightnight
+        mapzoomin: 1
+-   name: DIM-1
+    title: DIM-1
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: nethershadows
+        background: '#300806'
+        mapzoomin: 1
+    -   class: org.dynmap.hdmap.HDMap
+        name: nether
+        title: Surface
+        prefix: nt
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: nethershadows
+        background: '#300806'
+        mapzoomin: 1
+-   name: quantumquarryplus_quantum_quarry_dim
+    title: quantumquarryplus_quantum_quarry_dim
+    enabled: false
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+-   name: ae2_spatial_storage
+    title: ae2_spatial_storage
+    enabled: false
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+-   name: jamd_mining
+    title: jamd_mining
+    enabled: true
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+    -   class: org.dynmap.hdmap.HDMap
+        name: surface
+        title: Surface
+        prefix: t
+        perspective: iso_SE_30_hires
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+-   name: quantumquarryplus_quantum_quarry_dim_nether
+    title: quantumquarryplus_quantum_quarry_dim_nether
+    enabled: false
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
+-   name: compactmachines_compact_world
+    title: compactmachines_compact_world
+    enabled: false
+    extrazoomout: 2
+    maps:
+    -   class: org.dynmap.hdmap.HDMap
+        name: flat
+        title: Flat
+        prefix: flat
+        perspective: iso_S_90_lowres
+        shader: stdtexture
+        lighting: shadows
+        mapzoomin: 1
