@@ -1,0 +1,5 @@
+modname:tinyredstone
+
+texture:id=block_chopper,filename=assets/tinyredstone/textures/block/block_chopper.png,xcount=1,ycount=1
+texture:id=block_chopper_top,filename=assets/tinyredstone/textures/block/block_chopper_top.png,xcount=1,ycount=1
+block:id=%block_chopper,patch0=1000:block_chopper,patch1=1000:block_chopper_top,stdrot=true

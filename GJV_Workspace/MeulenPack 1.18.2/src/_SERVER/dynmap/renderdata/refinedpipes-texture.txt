@@ -1,0 +1,17 @@
+modname:refinedpipes
+
+texture:id=basic,filename=assets/refinedpipes/textures/blocks/pipe/item/basic.png,xcount=1,ycount=1
+texture:id=basic1,filename=assets/refinedpipes/textures/blocks/pipe/energy/basic.png,xcount=1,ycount=1
+block:id=%basic_item_pipe,patch0=0:basic,transparency=TRANSPARENT,stdrot=true
+block:id=%improved_item_pipe,patch0=0:basic,transparency=TRANSPARENT,stdrot=true
+block:id=%advanced_item_pipe,patch0=0:basic,transparency=TRANSPARENT,stdrot=true
+block:id=%basic_fluid_pipe,patch0=0:basic,transparency=TRANSPARENT,stdrot=true
+block:id=%improved_fluid_pipe,patch0=0:basic,transparency=TRANSPARENT,stdrot=true
+block:id=%advanced_fluid_pipe,patch0=0:basic,transparency=TRANSPARENT,stdrot=true
+block:id=%elite_fluid_pipe,patch0=0:basic,transparency=TRANSPARENT,stdrot=true
+block:id=%ultimate_fluid_pipe,patch0=0:basic,transparency=TRANSPARENT,stdrot=true
+block:id=%basic_energy_pipe,patch0=0:basic1,transparency=TRANSPARENT,stdrot=true
+block:id=%improved_energy_pipe,patch0=0:basic1,transparency=TRANSPARENT,stdrot=true
+block:id=%advanced_energy_pipe,patch0=0:basic1,transparency=TRANSPARENT,stdrot=true
+block:id=%elite_energy_pipe,patch0=0:basic1,transparency=TRANSPARENT,stdrot=true
+block:id=%ultimate_energy_pipe,patch0=0:basic1,transparency=TRANSPARENT,stdrot=true
