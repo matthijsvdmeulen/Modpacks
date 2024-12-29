@@ -1,3 +1,5 @@
 GJV_Workspace/.modpacks/staging
 GJV_Workspace/_upload
 Discord-Integration.toml
+Static upload content/jdk-17.0.13_windows-x64_bin.exe
+Static upload content/jre-8u311-windows-x64.exe
