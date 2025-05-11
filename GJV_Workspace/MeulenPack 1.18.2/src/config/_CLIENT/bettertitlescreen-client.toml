@@ -1,7 +1,7 @@
 
 ["custom text"]
 	#Insert the custom title screen text you want here (supports multiple lines)
-	text = ["§6MeulenPack 1.18.2 - 0.1.1"]
+	text = ["§6MeulenPack 1.18.2 - 0.2.1"]
 
 [versions]
 	#Show which version of Minecraft the client is currently running.
